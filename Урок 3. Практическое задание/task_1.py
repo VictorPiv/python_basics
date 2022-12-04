@@ -17,7 +17,6 @@ Process finished with exit code 0
 
 Process finished with exit code 0
 """
-
 def division():
     try:
         return number_1 / number_2
